@@ -8,8 +8,12 @@
     border-top: 20px solid #FFEC9E;
     animation: ani 2.5s linear infinite;
 }
+.secondspinner{
+    animation: ani 5s linear infinite;
+}
 @keyframes ani {
     to{
         transform: rotate(360deg);
     }
 }
+
